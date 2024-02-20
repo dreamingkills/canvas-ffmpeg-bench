@@ -1,6 +1,6 @@
 # canvas-ffmpeg-bench
 
-This repository serves as a benchmark for the same basic operation in both `[node-canvas](https://github.com/Automattic/node-canvas)` and [FFmpeg](https://ffmpeg.org/). You will need to install FFmpeg to run these benchmarks.
+This repository serves as a benchmark for the same basic operation in both [`node-canvas`](https://github.com/Automattic/node-canvas) and [FFmpeg](https://ffmpeg.org/). You will need to install FFmpeg to run these benchmarks.
 
 ### Installation
 
